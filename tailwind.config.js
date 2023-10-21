@@ -18,6 +18,7 @@ module.exports = {
       spacing: {},
       fontFamily: {
         arial: "Arial",
+        sans: ['Arial', 'sans'],
       },
       borderRadius: {
         "13xl": "32px",

@@ -5,15 +5,14 @@
 
 body {
   @apply leading-[normal] m-0;
+  font-family: 'Arial';
+  margin: 0;
+  line-height: normal;
+  background: 'hsla(273, 5%, 71%, 1), hsla(266, 100%, 50%, 1)';
 }
 
 *,
 ::before,
 ::after {
   border-width: 0;
-}
-
-body {
-  margin: 0;
-  line-height: normal;
 }
